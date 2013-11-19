@@ -1,0 +1,18 @@
+[submodule "ast"]
+	path = ast
+	url = git@github.com:moriarty/mas-ast.git
+[submodule "pcr"]
+	path = pcr
+	url = git@github.com:moriarty/mas-pcr.git
+[submodule "isw"]
+	path = isw
+	url = git@github.com:moriarty/mas-isw.git
+[submodule "pas"]
+	path = pas
+	url = git@github.com:moriarty/mas-pas.git
+[submodule "mrc"]
+	path = mrc
+	url = git@github.com:moriarty/mas-mrc.git
+[submodule "amr"]
+	path = amr
+	url = git@github.com:moriarty/Team2AMR.git
