@@ -16,3 +16,6 @@
 [submodule "amr"]
 	path = amr
 	url = git@github.com:moriarty/Team2AMR.git
+[submodule "sdp"]
+	path = sdp
+	url = git@github.com:mas-group/sdp_ws2013_ompl.git
