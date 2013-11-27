@@ -1,21 +1,22 @@
 [submodule "ast"]
-	path = ast
-	url = git@github.com:moriarty/mas-ast.git
+    path = ast
+    url = git@github.com:moriarty/mas-ast.git
 [submodule "pcr"]
-	path = pcr
-	url = git@github.com:moriarty/mas-pcr.git
+    path = pcr
+    url = git@github.com:moriarty/mas-pcr.git
 [submodule "isw"]
-	path = isw
-	url = git@github.com:moriarty/mas-isw.git
+    path = isw
+    url = git@github.com:moriarty/mas-isw.git
 [submodule "pas"]
-	path = pas
-	url = git@github.com:moriarty/mas-pas.git
+    path = pas
+    url = git@github.com:moriarty/mas-pas.git
 [submodule "mrc"]
-	path = mrc
-	url = git@github.com:moriarty/mas-mrc.git
+    path = mrc
+    url = git@github.com:moriarty/mas-mrc.git
 [submodule "amr"]
-	path = amr
-	url = git@github.com:moriarty/Team2AMR.git
+    path = amr
+    url = git@github.com:moriarty/Team2AMR.git
 [submodule "sdp"]
-	path = sdp
-	url = git@github.com:mas-group/sdp_ws2013_ompl.git
+    path = sdp
+    url = git@github.com:mas-group/sdp_ws2013_ompl.git
+
