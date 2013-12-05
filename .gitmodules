@@ -19,4 +19,7 @@
 [submodule "sdp"]
     path = sdp
     url = git@github.com:mas-group/sdp_ws2013_ompl.git
+[submodule "jshop2"]
+    path = jshop2
+    url = git@github.com:moriarty/jshop2.git
 
